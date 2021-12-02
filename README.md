@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm Alex! I'm getting PhD in Physics from the University of Florida. 
+
+I'm interested in Machine Learning, AI, Quantum Computing, Bayesian Statistics, Particle Physics, 
+Astrophysics, Cosmology, Biophysics, Spatial Statistics, Computer Vision, NLP, and many other things.
+
+I also do Karate, Woodworking, and like to go SCUBA Diving or Sailing whenever I can.
+
+I'm currently working on some projects in the fields mentioned above, and I'd like to write up some nice explainers on them. coming soon...
+
+Do equations work here?...
+$$E = mc^2$$
+
 <!--
 **romanflow/romanflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
